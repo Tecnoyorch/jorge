@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(13, 162, 189);
   display: flex;
   justify-content: center;
 }
@@ -22,4 +22,10 @@ body {
   border-width: 4px;
   text-align: center;
   font-size: 24px;
+}
+p{
+  color: aliceblue;
+}
+td{
+  color: aliceblue;
 }
