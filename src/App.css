@@ -11,6 +11,8 @@ body {
 .title {
   text-align: center;
   color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
   }
 .new-task {
   display: block;
@@ -26,6 +28,21 @@ body {
 p{
   color: aliceblue;
 }
-td{
-  color: aliceblue;
+h2{
+  color: silver;
+  text-shadow: 2px 2px 4px black;
 }
+
+.Display{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.tel{
+  color: black solid;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr{
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
