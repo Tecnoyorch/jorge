@@ -2,17 +2,24 @@ body {
   background-color: rgb(13, 162, 189);
   display: flex;
   justify-content: center;
+  background-image: url(https://img.freepik.com/foto-gratis/fondo-tecnologia-circuito-placa-base-azul-degradado_53876-124654.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:100%;
 }
 .container {
   display: block;
   width: 500px;
   margin-top: 120px;
+  
+
 }
 .title {
   text-align: center;
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
+ text-shadow:2px 2px 4px black;
   }
 .new-task {
   display: block;
@@ -29,20 +36,37 @@ p{
   color: aliceblue;
 }
 h2{
-  color: silver;
+  color: greenyellow;
+  text-shadow: 2px 2px 4px black;
+  text-align: center;
+  font-size: 35px;
+}
+h3{
+  color: yellow;
   text-shadow: 2px 2px 4px black;
 }
 
 .Display{
  font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 .tel{
-  color: black solid;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 4px black;
+  color: yellow;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+tr:hover{
+  color:yellow;
 }
 tr{
   color: white;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 4px black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+li{
+  color: white;
+  text-shadow: 3px 3px 4px black;
+}
+li:hover{
+  color: greenyellow;
+}
