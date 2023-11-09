@@ -16,6 +16,7 @@ function App() {
       </ul>
 
     </div>
+
     <table>
       <td class="tel"><strong>Servicio para Telefonos que no prenden</strong></td>
       <tr>Diagnotico de bateria</tr>
@@ -23,7 +24,7 @@ function App() {
       <tr>Diagnostico tarjeta madre</tr>
     </table>
     <div class="clean">
-   
+      <h3>Mantenimiento</h3>
       <ul>
         <li>Limpieza exterior</li>
         <li>Limpieza interna (tarjeta, bocinas, microfoono, ect.)</li>
@@ -32,10 +33,21 @@ function App() {
 
     </div>
 
+
+   <div class="Soft"><h3>Software</h3>
+    <p>Para las Fallas por Sofware se ofrece 2 opciones que son:</p>
+    <ul>
+      <li>Cambio de Tarjeta Madre</li>
+      <li>carga de nuevo Software</li>
+    </ul>
+    </div>
+
+
+    </div>
     
 
 
-   </div>
+   
    
   );
 }
