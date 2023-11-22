@@ -85,3 +85,34 @@ p{color: white;
 text-shadow: 2px 2px 4px black;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.NC{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: yellow;
+  text-shadow: 2px 2px 4px black;
+  margin-right: 5px;
+}
+.Model{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: yellow;
+  text-shadow: 2px 2px 4px black;
+  margin-right: 8px;
+}
+.Marca{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: yellow;
+  text-shadow: 2px 2px 4px black;
+  margin-right: 8px;
+}
+.Falla{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: yellow;
+  text-shadow: 2px 2px 4px black;
+  margin-right: 8px;
+}
+.boton{
+background-color: rgb(4, 194, 4);
+}
+.boton:hover{
+  background-color: blue;
+  color: white;
+}

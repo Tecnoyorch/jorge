@@ -41,6 +41,25 @@ function App() {
       <li>carga de nuevo Software</li>
     </ul>
     </div>
+    <div class="Formu">
+    <form>
+      <label class="NC">Nombre del cliente</label>
+      <input type='text' id='nombre' name='nombre' required></input><br></br>
+      <label class="Model">Modelo del Equipo</label>
+      <input type='text' id='Model' name='Model' required></input><br></br>
+      <label class="Marca">Marca del Equipo</label>
+      <input type='text' id='Marca' name='Marca' required></input><br></br>
+      <label class="Falla">Falla o Daño</label>
+      <input type='text' id='Falla' name='Falla' required></input><br></br>
+      <input class="boton" type="submit" value="Enviar"></input>
+    
+
+
+
+    </form>
+
+    </div>
+    
 
 
     </div>
